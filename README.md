@@ -1,4 +1,3 @@
-# Piyush-Walia
 # Piyush-Walia&nbsp;<img src="https://c.tenor.com/Trhb6DI_7I0AAAAj/mechanical-legs-researching.gif" width=35px height=35px></p>
 
 <p>
@@ -8,7 +7,7 @@
 padding-left: 50%;
 "></em>
 <div>
-<img src="https://giffiles.alphacoders.com/173/173853.gif" width=10% >
+<!-- <img src="https://giffiles.alphacoders.com/173/173853.gif" width=10% > -->
 </div>
 
 
